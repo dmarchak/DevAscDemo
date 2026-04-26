@@ -15,6 +15,7 @@ def main(argv=None):
         argv = sys.argv[1:]
 
     print("Hello from myscript.py")
+    print("changes made!")
     print(f"Received arguments: {argv}")
 
 
